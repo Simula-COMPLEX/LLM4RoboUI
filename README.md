@@ -11,7 +11,7 @@ Hassan Sartaj, Jalil Boudjadar, Mirgita Frasheri, Shaukat Ali, and Peter Gorm La
 
 ## 📂 Repository Contents
 
-### 1. Prompt (`LLMsPrompt`) File
+### 1. Prompt (`LLMsPrompt.pdf`) File
 - A **role-based prompt** designed to identify uncertainties in self-adaptive robotics using large language models (LLMs). 
 - Includes:
   - Step-by-step instructions for LLMs.
