@@ -3,10 +3,10 @@
 This repository contains supplementary materials as part of the following paper.  
 
 ## 📝 Paper Reference
-Hassan Sartaj, Jalil Boudjadar, Mirgita Frasheri, Shaukat Ali, and Peter Gorm Larsen.  
+Hassan Sartaj, Jalil Boudjadar, Mirgita Frasheri, Shaukat Ali, and Peter Gorm Larsen. 
 **"Identifying Uncertainty in Self-Adaptive Robotics with Large Language Models."**  
-*arXiv preprint arXiv:2504.20684 (2025)*.  
-[Link to the paper](https://arxiv.org/abs/2504.20684)
+*IEEE Software*, vol. 43, no. 1, pp. 89-97, Jan.-Feb. 2026, doi: 10.1109/MS.2025.3620578.  
+[Link to the paper](https://ieeexplore.ieee.org/document/11204018)
 ---
 
 ## 📂 Repository Contents
